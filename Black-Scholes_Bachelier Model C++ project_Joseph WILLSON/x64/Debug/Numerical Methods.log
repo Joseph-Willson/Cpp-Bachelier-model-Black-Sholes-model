@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\JWill\Downloads\Black-Scholes code + C++ project\Source.cpp(45,27): warning C4305: 'initialisation' : troncation de 'double' à '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\JWill\Downloads\Black-Scholes code + C++ project\Source.cpp(45,36): warning C4305: 'initialisation' : troncation de 'double' à '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  Numerical Methods.vcxproj -> C:\Users\JWill\Downloads\Black-Scholes code + C++ project\x64\Debug\Numerical Methods.exe
